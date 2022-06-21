@@ -1,0 +1,3 @@
+## Link para o donwload do Git (https://github.com/git-for-windows/git/releases/download/v2.36.1.windows.1/Git-2.36.1-64-bit.exe)
+
+O recurso do Git que realmente o diferencia de quase todos os outros SCM é seu modelo de ramificação.
